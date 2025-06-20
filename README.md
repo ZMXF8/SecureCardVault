@@ -15,17 +15,10 @@
 - Python 3.8+
 - tkinter（Python自带）
 - cryptography
-
-安装依赖：
-
-```bash
-pip install -r requirements.txt
-```
-
 ## 🚀 启动方式
 
 ```bash
-python main.py
+python SecureCardVault.py
 ```
 
 或使用：
@@ -33,7 +26,3 @@ python main.py
 ```bash
 pyinstaller --noconfirm --onefile --windowed main.py
 ```
-
-## 📜 License
-
-MIT License
