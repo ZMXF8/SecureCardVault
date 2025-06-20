@@ -26,4 +26,4 @@ python SecureCardVault.py
 ```bash
 pyinstaller --noconfirm --onefile --windowed main.py
 ```
-##默认账号/密码:admin/admin
+## 默认账号/密码:admin/admin
